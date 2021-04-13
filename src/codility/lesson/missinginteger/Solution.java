@@ -1,8 +1,6 @@
 package codility.lesson.missinginteger;
 
 
-import jdk.dynalink.linker.ConversionComparator;
-
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
